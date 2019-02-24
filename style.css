@@ -1,0 +1,85 @@
+body{
+	background-image: url("img/brg.jpg");
+	height: 1000px;
+}
+#kotak1{
+	width: 300px;
+	height: 1000px;
+	background-color: #92a8d1;
+}
+#kotak2{
+	width: 955px;
+	height: 230px;
+	background-color: #808080;
+	position: relative;
+	left:300px;
+	bottom: 1053px;
+}
+.kotak3{
+	width: 400px;
+	height: 270px;
+	background-color: #cdd3cb;
+	border: 5px solid #808080;
+	position: relative;
+	border-radius: 3%;
+}
+.tul{
+	font-family: heltevica;
+	font-size: 20pt;
+	text-align: center;
+	color: white;
+}
+.line{
+	width: 350px;
+	height: 40px;
+	background-color: #808080 ;
+	position: relative;
+}
+#foto{
+	width: 100px;
+	height: 100px;
+	float:left;
+}
+
+.a{
+	font-family: heltevica;
+	font-size: 18pt;
+	color: white;
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+p.a{
+	font-family: heltevica;
+	font-size: 13pt;
+	color: white;
+	text-align: left;
+	padding-left: 30px;
+}
+#nama{
+	font-family: georgia;
+	font-size: 40pt;
+	color: white;
+	text-align: center;
+	padding: 80px;
+}
+.b{
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -20;
+	padding-left: 30px;
+}
+.c{
+	font-family: heltevica;
+	color: white;
+	text-align: left;
+	padding-left: 30px;
+}
+.d{
+	color: black;
+	font-size: 13pt;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
